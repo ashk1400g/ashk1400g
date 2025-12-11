@@ -1,4 +1,4 @@
-## Hi there 👋
+### This is an old Github for school. Check out my new Github profile: [ashneetrathore](https://github.com/ashneetrathore)
 
 <!--
 **ashk1400g/ashk1400g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
